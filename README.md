@@ -1,6 +1,7 @@
 # Data Warehouse and Analytics Project
 
----
+This repository documents my journey building a modern data warehouse from the ground up, applying Medallion Architecture (Bronze, Silver, Gold) to transform raw operational data into clean, analysis-ready datasets. As a BI consultant transitioning into data engineering, I built this project to practice ETL design, data modeling, and data quality validation — turning the concepts into a working, portfolio-ready pipeline
+
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
