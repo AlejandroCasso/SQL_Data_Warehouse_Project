@@ -94,7 +94,7 @@ begin
 	select
 		cpi.prd_id,
 		REPLACE(SUBSTRING(cpi.prd_key, 1, 5), '-', '_') as cat_id,
-		REPLACE(SUBSTRING(cpi.prd_key, 7, LENGTH(cpi.prd_key)), '-', '_') as prd_key,
+		SUBSTRING(cpi.prd_key, 7, LENGTH(cpi.prd_key)) as prd_key,
 		cpi.prd_nm,
 		COALESCE(cpi.prd_cost, 0) as prd_cost,
 		case UPPER(TRIM(prd_line))
