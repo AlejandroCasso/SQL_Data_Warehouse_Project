@@ -1,8 +1,5 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
 ---
 ## 🏗️ Data Architecture
 
@@ -97,6 +94,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi, I'm **Alejandro Casso Tovar**. I'm a freelance BI consultant based in Mexico, working with data pipelines and Power BI reporting for clients across different industries. I'm currently expanding into data engineering — building this project to apply medallion architecture, ETL design, and data modeling to a real-world dataset — while completing a Master's degree in AI.
+Hi, I'm **Alejandro Casso Tovar**. I'm a freelance BI consultant based in Mexico, working with data pipelines and reporting for clients across different industries. I'm currently expanding into data engineering — building this project to apply medallion architecture, ETL design, and data modeling to a real-world dataset — while completing a Master's degree in AI.
 
 I enjoy turning messy, raw data into something people can actually trust and act on. Always open to connecting with other data professionals or talking about opportunities.
